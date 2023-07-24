@@ -1,16 +1,18 @@
-slug: container-copy
-id: z3un1xgnawkc
-title: Sandbox container Copy
+slug: container-copy-dev
+id: bopyurs8t5ej
+title: DEV - Sandbox container Copy
 teaser: Get started quickly with a single container-based sandbox host
 description: Get started quickly with a container-based sandbox host. Choose a container
   when you need a fast, lightweight Linux system.
 icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
-tags: []
+tags:
+- dev
 owner: instruqt-support
 developers:
 - sohail@instruqt.com
+maintenance: true
 lab_config:
   overlay: false
   width: 33
   position: right
-checksum: "6770369877824353421"
+checksum: "7776129521750818199"
