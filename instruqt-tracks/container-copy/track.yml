@@ -11,6 +11,7 @@ tags:
 owner: instruqt-support
 developers:
 - sohail@instruqt.com
+- krishna@instruqt.com
 lab_config:
   overlay: false
   width: 33
